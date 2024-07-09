@@ -22,6 +22,12 @@ The project includes the following agents to handle specific types of queries:
     - Executes SQL queries on a SQLite database.
     - Provides explanations for query results.
 
+## UI
+![ss1](https://github.com/chillmatin/rag-question-answering-model/assets/73022312/90df6273-fbe3-49fd-b668-77cdce88f1a9)
+![ss2](https://github.com/chillmatin/rag-question-answering-model/assets/73022312/d714f5b4-edbd-4ceb-ad22-cadd2a5807c0)
+![ss3](https://github.com/chillmatin/rag-question-answering-model/assets/73022312/3233c0bc-01c6-4ec8-b38f-db8beaeed3bc)
+![ss4](https://github.com/chillmatin/rag-question-answering-model/assets/73022312/74eea02a-11be-4990-8ad4-3c34f6d7d914)
+
 ## Presentation
 
 ![FineTuners-1_page-0001](https://github.com/chillmatin/rag-question-answering-model/assets/73022312/b1bd768a-cd8b-4212-97be-cfb416293e94)
